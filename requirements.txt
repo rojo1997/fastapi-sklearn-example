@@ -2,3 +2,5 @@ pandas
 numpy
 dill
 sklearn
+fastapi
+starlette
